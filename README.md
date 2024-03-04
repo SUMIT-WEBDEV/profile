@@ -41,7 +41,7 @@ Let's connect 👨‍💻 and pioneer innovation together.
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [inifarhan](https://github.com/SUMIT-WEBDEV)
+:star: From [sumit](https://github.com/SUMIT-WEBDEV)
 
 [twitter]: https://twitter.com/SumitSa16455587
 [linkedin]: https://www.linkedin.com/in/sumit-sahu16/
