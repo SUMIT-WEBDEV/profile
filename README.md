@@ -3,6 +3,7 @@ Hi, I'm Sumit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <h3 align="center">I am a Full-stack Web Developer</h3>
+
 ---
 
 ## Tech & Tools Preference
@@ -19,7 +20,7 @@ Hi, I'm Sumit
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/prisma-orm.png"/></a>
 <a src="https://reactjs.org/"><img src="https://icons8.com/icon/38561/postgresql"/></a>
-<a src="https://www.mongodb.com/"><img src="https://icons8.com/icon/38561/postgresql"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/mongoose.png"/></a>
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
 ## 📈 GitHub Stats:
