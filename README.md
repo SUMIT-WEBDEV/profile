@@ -26,7 +26,6 @@ Hi, I'm Sumit
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT-WEBDEV&theme=react&hide_border=false&include_all_commits=false&layout=compact)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=SUMIT-WEBDEV&theme=react)<br/>
-![](https://komarev.com/ghpvc/?username=SUMIT-WEBDEV)
 
 ---
 
