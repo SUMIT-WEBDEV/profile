@@ -3,7 +3,7 @@ Hi, I'm Sumit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <h3 align="center">I am a Full-stack Web Developer</h3>
-![](https://komarev.com/ghpvc/?username=SUMIT-WEBDEV)
+
 ---
 
 ## Tech & Tools Preference
@@ -26,6 +26,7 @@ Hi, I'm Sumit
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT-WEBDEV&theme=react&hide_border=false&include_all_commits=false&layout=compact)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=SUMIT-WEBDEV&theme=react)<br/>
+![](https://komarev.com/ghpvc/?username=SUMIT-WEBDEV)
 
 ---
 
