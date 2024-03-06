@@ -3,7 +3,7 @@ Hi, I'm Sumit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <h3 align="center">I am a Full-stack Web Developer</h3>
-
+![](https://komarev.com/ghpvc/?username=SUMIT-WEBDEV)
 ---
 
 ## Tech & Tools Preference
